@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: SNOWBIRD-XD
+    env: docker
+    region: Singapore
+    plan: free
+    repo: https://github.com/SNOWBIRD0074/SNOWBIRD-XD
+    autoDeploy: true 
+    envVars:
+      - key: SESSION_ID
+        sync: false  # Requires manual input in the Render Dashboard
+        description: 🔐 Your bot’s session ID. Scan the QR code to get this or the bot won’t start!

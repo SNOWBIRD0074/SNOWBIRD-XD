@@ -1,0 +1,29 @@
+{
+  "name": "MAKAMESCO-MD-V",
+  "description": "⚡ A savage WhatsApp bot built to dominate chats with toxic style! Powered by Node.js for max chaos.",
+  "keywords": ["Makamesco-MD", "WhatsApp Bot", "Multi-Device", "Savage"],
+  "repository": "https://github.com/makamesco/Makamesco-md-v",
+  "stack": "container",
+  "env": {
+    "OWNER_NUMBER": {
+      "description": "📱 Your WhatsApp number (with country code, no +). Who’s runnin’ this show? 💪",
+      "required": true,
+      "value": "254769995625"
+    },
+    "OWNER_NAME": {
+      "description": "👑 Your name, the boss of *MAKAMESCO-MD_V*. Flex it in the bot’s credits! 😎",
+      "required": true,
+      "value": "Marcas"
+    },
+    "PREFIX": {
+      "description": "🔠 Command trigger (e.g., ‘.’ for !ping). Keep it short or look like a clown! 🤡",
+      "required": true,
+      "value": "."
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
