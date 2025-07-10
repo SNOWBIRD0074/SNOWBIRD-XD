@@ -15,15 +15,17 @@ SNOWBIRD-XD is a fast, modular, and powerful bot built for automation, responsiv
 
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-green?style=for-the-badge&logo=github)](https://github.com/SNOWBIRD0074/SNOWBIRD-XD/archive/refs/heads/main.zip)
 
+[![Pair on ToxicPairing](https://img.shields.io/badge/Pair%20on-ToxicPairing-red?style=for-the-badge&logo=linktree)](https://toxicpairing.site/)
+
 ---
 
 ## 🧩 Features
 
-- ✅ Fast & lightweight
-- 🔒 Session-based authentication
-- 🧠 Easy to customize and extend
-- 🌍 Compatible with various deployment platforms
-- 🛠️ Plugin-based architecture
+- ✅ Fast & lightweight  
+- 🔒 Session-based authentication  
+- 🧠 Easy to customize and extend  
+- 🌍 Compatible with various deployment platforms  
+- 🛠️ Plugin-based architecture  
 
 ---
 
